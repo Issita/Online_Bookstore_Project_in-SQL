@@ -10,7 +10,7 @@ The goal of this project is to explore and analyze data from an online bookstore
 
 ## Business Problems and Solutions
 
-## 1.**Retrieve all books in the "Fiction" genre:**
+## 1. **Retrieve all books in the "Fiction" genre:**
 ``` sql
 SELECT * FROM BOOKS
 WHERE GENRE = 'Fiction';
