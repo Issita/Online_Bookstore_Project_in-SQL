@@ -8,7 +8,7 @@ The goal of this project is to explore and analyze data from an online bookstore
 
 ## Dataset
 books(https://github.com/Issita/Online_Bookstore_Project_in-SQL/blob/main/Books.csv)
-customer()
+customer(https://github.com/Issita/Online_Bookstore_Project_in-SQL/blob/main/Customers.csv)
 orders()
 ## Business Problems and Solutions
 
